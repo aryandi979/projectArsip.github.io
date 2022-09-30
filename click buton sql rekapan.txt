@@ -1,0 +1,1 @@
+<a class="animated zoomIn record-count card bg-success text-white"  href="<?php print_link("rekapan/") ?>">
